@@ -1,5 +1,5 @@
 # sql-challenge
-# please also see the output file included in the current Github Repo
+## please also see the output file included in the current Github Repo
 
 ** Background **
    ----------
